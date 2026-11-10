@@ -154,3 +154,4 @@ As fotos de produto continuam em fundo claro no tema escuro, para as fotos com f
   `Header.js` mede o espaço e liga a classe `is-compact` (duas linhas) sozinho, então nada fica por cima da busca.
 - Cartões "Featured" no celular: mais altos, título menor (`clamp`) e em no máximo 2 linhas, sem cobrir a foto.
 # shopify2026
+# shopify2026
